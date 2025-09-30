@@ -1,0 +1,3 @@
+echo "commit 4" >> updates.txt
+git add updates.txt
+git commit -m "update #4"
